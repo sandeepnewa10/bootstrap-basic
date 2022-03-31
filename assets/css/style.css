@@ -1,0 +1,37 @@
+section {
+  padding: 90px 0;
+}
+
+.hero {
+  background-color: #e8e8e8;
+}
+
+.skills {
+  background-color: #474747;
+  color: #fff;
+}
+
+.about {
+  background: #e8e8e8;
+}
+
+.about span {
+  font-size: 2rem;
+}
+
+.page-title {
+  text-align: center;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+}
+
+.sub-title {
+  text-align: center;
+  margin: 2rem 0 1rem 0;
+  text-transform: uppercase
+}
+
+.figure-caption {
+  color: #fff;
+  font-size: 1.7rem;
+}
